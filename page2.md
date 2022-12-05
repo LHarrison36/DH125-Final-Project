@@ -1,5 +1,5 @@
 ---
-title: Page2
+title: Quality of Life
 layout: template
 filename: page2
 --- 
