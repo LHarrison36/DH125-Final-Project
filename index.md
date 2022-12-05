@@ -1,5 +1,5 @@
 ---
-title: Page Index
+title: Landing
 layout: template
 filename: index
 --- 
