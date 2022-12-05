@@ -1,7 +1,7 @@
 ---
 title: Page2
 layout: template
-filename: page2.md
+filename: page2
 --- 
 
 
