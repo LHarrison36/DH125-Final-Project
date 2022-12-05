@@ -1,5 +1,5 @@
 ---
-title: Page3
+title: Personal Freedoms
 layout: template
 filename: page3
 --- 
