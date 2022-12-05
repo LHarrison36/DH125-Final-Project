@@ -1,6 +1,6 @@
 ---
 title: Page Index
 layout: template
-filename: index
+filename: index.md
 --- 
 # DH125-Final-Project
