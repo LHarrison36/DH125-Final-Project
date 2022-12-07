@@ -5,6 +5,6 @@ filename: index
 --- 
 # DH125-Final-Project
 
-<img src="rainbow.jpg" alt="Italian Trulli" style="width: 100%;">
+<img src="gaypride.png" alt="Italian Trulli" style="width: 100%;">
 
 
