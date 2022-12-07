@@ -3,5 +3,4 @@ title: Personal Freedoms - Findings
 layout: template
 filename: Findings3
 --- 
-
-![Findings for Personal Freedoms](Findings.png)
+<div align="center"><img src="Findings.png" alt="Findings for Personal Freedoms"></div>
