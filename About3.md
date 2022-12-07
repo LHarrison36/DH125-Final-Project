@@ -4,4 +4,4 @@ layout: template
 filename: About3
 --- 
 
-## About Personal Freedoms
+![About Personal Freedoms](About.png)
