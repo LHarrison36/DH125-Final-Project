@@ -44,11 +44,11 @@ In our outcome table, we found notable differences in the SOGI-LI index by compa
 
 ![Outcome Table for Continents](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-outcome.png)
 
-![Contingency Table for Predominant Religion and Continents](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-outcome.png)
+![Contingency Table for Predominant Religion and Continents](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-contingency.png)
 
 Following our ANOVA test, we found that our F statistic value came out to be 0.23. The F statistic measures the total variances between the two measured variables, freedom to make life choices and happiness. Being that our F value is less than the critical F value at 3.92, it tells us that we fail to reject the null hypothesis that states the variance in the freedom to make life choices and happiness levels between countries are independent of one another. What this means is that the variance between the freedom to make life choices and happiness levels are instead dependent on one another. In the context of our research questions, these findings suggest that countries that allow more freedoms among people’s lifestyle, including sexuality, are more likely to report higher happiness scores.
 
-![Q-Q Norm Plot](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-outcome.png)
+![Q-Q Norm Plot](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-qqnorm-ANOVA.png)
 
 ![Q-Q Line Plot](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-qqline-ANOVA.png)
 
