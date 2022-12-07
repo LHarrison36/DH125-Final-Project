@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-![Title page](../landing.png)
+![Title page](landing.png)
 
 
 
