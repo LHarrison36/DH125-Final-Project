@@ -8,7 +8,6 @@ filename: page2
 ## Quality of Life Home
 ### Project Description & Rationale
 
-In about 2 paragraphs, describe your project’s topic, your team’s rationale for its selection, and your research questions.
 We chose to focus our topic on the impact of legal protections on the quality of life within countries on an international level. We chose to select this topic because of our own personal experiences with discrimination towards our own genders and sexual orientations, as well as our deep interest in the topic and how it varies on an international scale. We focused on how the implementation of these laws correlates with the quality of life in the 185 countries listed, including variables such as happiness score and satisfaction with GDP per capita. 
 
 Our research questions include: investigating how the Sexual Orientation & Gender Index (SOGI) of a country correlate with the happiness score of that country, how the happiness score differs among a traditionally individualistic continent such as North America, vs. a traditionally collectivist continent such as Asia, the correlation between Predominant Religion and Happiness levels as it pertains to quality of life, and how the freedom to make life choices affect levels of happiness between countries. We also investigated the distribution of major religions by continent as well as descriptive statistics among happiness scores from The World Happiness Report and the legality of same-sex marriage on a 1-point scale. 
