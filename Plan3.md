@@ -4,4 +4,4 @@ layout: template
 filename: Plan3
 --- 
 
-## Work Plan Personal Freedoms
+![Work Plan Personal Freedoms](4bWorkPlan.png)
