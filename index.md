@@ -5,6 +5,6 @@ filename: index
 --- 
 # DH125-Final-Project
 
-<img src="rainbow.jpg" alt="Italian Trulli">
+<img src="rainbow.jpg" alt="Italian Trulli" style="width: 100%;">
 
 
