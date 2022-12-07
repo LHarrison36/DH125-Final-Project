@@ -4,4 +4,4 @@ layout: template
 filename: Findings3
 --- 
 
-## Findings for Personal Freedoms
+![Findings for Personal Freedoms](Findings.png)
