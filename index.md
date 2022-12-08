@@ -3,7 +3,7 @@ title: Landing
 layout: template
 filename: index
 --- 
-![Title page](Landing3.png)
+<div align="center"><img src="LandingFinal.png" alt="DH125 Final Project Landing Page"></div>
 
 
 <div align="center"><a href="https://docs.google.com/document/d/16fG4Eqmtcvl7le0wbkv6dGUCq0_Uh4XzAsibjYMSwYs/edit?usp=sharing" target="_blank"><button class="btn btn-primary btn-lg">View the Whitepaper for Group 4a</button></a>
