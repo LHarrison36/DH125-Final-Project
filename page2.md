@@ -38,19 +38,19 @@ Our ANOVA analysis examined the variables of freedom to make life choices and ha
 
 With our Fisher’s Exact test, we found that the p-value came out to be 0.1599, which went above the significance level of 0.05 and therefore is not statistically significant. What this means is that there was not strong enough evidence to reject the null hypothesis that predominant religion and happiness are independent. Therefore, we are able to suggest that predominant religion and happiness may be independent of one another. The importance of these findings within the context of our research questions tells us that there is there is a potential quality of life, including freedoms that are related or adjacent to same-sex freedoms, that may play a larger role in indicating happiness levels instead of just the predominant religion of a country. In other words, it indicates that the religious ties of a country do not necessarily dictate how happy the people of that country will be.
 
-![Fisher's Test Table](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-chi-square.png)
+![Fisher's Test Table](4a-chi-square.png)
 
 In our outcome table, we found notable differences in the SOGI-LI index by comparing continents based on the SOGI-LI index. By analyzing the outcome table based on continents, we were able to identify how many countries are within each continent. Thus, we were able to find that Africa and Europe had the largest distribution of countries based on continents. Additionally, we found that America and Oceania have the smallest distribution of countries based on continents. Furthermore, for our contingency table, we found that Christianity was the most common religion among all continents. However, our findings indicated that Asia’s most common religion was Islam. This finding was important in terms of our study, because it illustrates how beliefs about gender and sexuality are often tied to religion, and these thoughts vary between religions. A key thing to note is that a high number of countries is not indicative of a high population. For example, we found that Africa overwhelmingly has a lower number of Muslim-majority countries in comparison to the number of Christian-majority countries. However, this doesn’t take into account the populations within Africa, and how Muslim-majority countries might be more populated.
 
-![Outcome Table for Continents](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-outcome.png)
+![Outcome Table for Continents](4a-outcome.png)
 
-![Contingency Table for Predominant Religion and Continents](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-contingency.png)
+![Contingency Table for Predominant Religion and Continents](4a-contingency.png)
 
 Following our ANOVA test, we found that our F statistic value came out to be 0.23. The F statistic measures the total variances between the two measured variables, freedom to make life choices and happiness. Being that our F value is less than the critical F value at 3.92, it tells us that we fail to reject the null hypothesis that states the variance in the freedom to make life choices and happiness levels between countries are independent of one another. What this means is that the variance between the freedom to make life choices and happiness levels are instead dependent on one another. In the context of our research questions, these findings suggest that countries that allow more freedoms among people’s lifestyle, including sexuality, are more likely to report higher happiness scores.
 
-![Q-Q Norm Plot](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-qqnorm-ANOVA.png)
+![Q-Q Norm Plot](4a-qqnorm-ANOVA.png)
 
-![Q-Q Line Plot](https://github.com/LHarrison36/DH125-Final-Project/blob/main/4a-qqline-ANOVA.png)
+![Q-Q Line Plot](4a-qqline-ANOVA.png)
 
 ### Conclusion
 
