@@ -65,6 +65,5 @@ Serwatka, T. S., "Dataset for "Sexual Orientation and Gender-Identity
 (2020). Research Datasets. https://digitalcommons.unf.edu/datasets/1
 
 
-https://drive.google.com/file/d/1mFCw9VfOm_MtTOAQGTDorKfqFfH
-Qw_C/view?usp=sharing
+https://drive.google.com/file/d/1mFCw9VfOm_MtTOAQGTDorKfqFfHQw_C/view?usp=sharing
 
